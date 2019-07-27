@@ -1,4 +1,4 @@
-Targetron
+Targetron 1
 =========
 Targetron - Kerbal Space Program  
 Author: Jarcikon
